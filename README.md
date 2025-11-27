@@ -1,4 +1,4 @@
-# Leela's Kitchen - Restaurant Website
+# Leela's Kitchen - Restaurent Website
 
 A modern, responsive website for Leela's Kitchen featuring authentic Indian cuisine.
 
