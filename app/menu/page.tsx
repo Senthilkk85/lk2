@@ -66,22 +66,7 @@ export default function Menu() {
         { name: 'Chettinad Egg Curry', description: 'Hard-boiled eggs in spicy Chettinad gravy', price: '$11.99' },
       ]
     },
-    {
-      category: 'Kerala Cuisine',
-      items: [
-        { name: 'Kerala Fish Curry', description: 'Tangy fish curry with coconut milk and kokum', price: '$13.99' },
-        { name: 'Kerala Prawn Curry', description: 'Prawns in coconut milk and spices', price: '$14.99' },
-        { name: 'Appam with Stew', description: 'Lacy rice pancakes with vegetable or meat stew', price: '$9.99' },
-        { name: 'Puttu', description: 'Steamed rice cylinders with coconut', price: '$6.99' },
-        { name: 'Kadala Curry', description: 'Black chickpea curry, served with puttu', price: '$8.99' },
-        { name: 'Kerala Parotta', description: 'Layered flatbread, flaky and crispy', price: '$4.99' },
-        { name: 'Beef Fry', description: 'Spicy beef fry, Kerala style', price: '$15.99' },
-        { name: 'Kerala Chicken Roast', description: 'Dry roasted chicken with coconut and spices', price: '$14.99' },
-        { name: 'Avial', description: 'Mixed vegetables in coconut and yogurt curry', price: '$9.99' },
-        { name: 'Sadhya Thali', description: 'Traditional Kerala feast with rice and 20+ dishes', price: '$18.99' },
-      ]
-    },
-    {
+   {
       category: 'Tamil Nadu Specialties',
       items: [
         { name: 'Pongal', description: 'Savory rice and lentil porridge with pepper and cumin', price: '$6.99' },
@@ -114,17 +99,7 @@ export default function Menu() {
         { name: 'Butter Chicken', description: 'Creamy tomato-based curry with tender chicken pieces', price: '$13.99' },
         { name: 'Chicken Tikka Masala', description: 'Grilled chicken in creamy tomato and spice sauce', price: '$14.99' },
         { name: 'Dal Makhani', description: 'Creamy black lentils cooked with butter and cream', price: '$9.99' },
-        { name: 'Sarson Ka Saag', description: 'Mustard greens cooked with spices, served with makki ki roti', price: '$10.99' },
-        { name: 'Makki Ki Roti', description: 'Corn flour flatbread', price: '$3.99' },
-        { name: 'Rajma', description: 'Kidney beans in rich tomato and onion gravy', price: '$9.99' },
-        { name: 'Chole Bhature', description: 'Spiced chickpeas with fluffy fried bread', price: '$10.99' },
-        { name: 'Aloo Paratha', description: 'Paratha stuffed with spiced potatoes', price: '$5.99' },
-        { name: 'Paneer Tikka', description: 'Marinated paneer cubes grilled with vegetables', price: '$10.99' },
-        { name: 'Amritsari Kulcha', description: 'Stuffed leavened bread from Amritsar', price: '$4.99' },
-        { name: 'Lassi', description: 'Sweet yogurt drink', price: '$3.99' },
-        { name: 'Mango Lassi', description: 'Sweet yogurt drink with mango', price: '$4.99' },
-        { name: 'Punjabi Thali', description: 'Complete meal with dal, vegetables, roti, rice, and dessert', price: '$13.99' },
-      ]
+     ]
     },
    
     {
@@ -228,10 +203,6 @@ export default function Menu() {
         { name: 'Gulab Jamun', description: 'Sweet milk dumplings soaked in sugar syrup', price: '$5.99' },
         { name: 'Kheer', description: 'Sweet rice pudding with cardamom and nuts', price: '$5.99' },
         { name: 'Kulfi', description: 'Traditional Indian ice cream', price: '$4.99' },
-        { name: 'Jalebi', description: 'Crispy, sweet pretzel-shaped dessert', price: '$5.99' },
-        { name: 'Halwa', description: 'Sweet semolina pudding with ghee and nuts', price: '$5.99' },
-        { name: 'Carrot Halwa', description: 'Sweet carrot pudding with milk and nuts', price: '$6.99' },
-        { name: 'Badam Halwa', description: 'Rich almond pudding', price: '$7.99' },
         { name: 'Payasam', description: 'South Indian sweet pudding with milk and rice', price: '$5.99' },
         { name: 'Rava Kesari', description: 'Sweet semolina dessert with saffron', price: '$5.99' },
 
