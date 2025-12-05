@@ -280,8 +280,8 @@ export default function Checkout() {
                 </Link>
                 <p className="text-center mt-4 text-sm text-gray-500">
                   Need help? Call us at{' '}
-                  <a href="tel:+13197774665" className="text-primary-600 hover:text-primary-700 font-semibold">
-                    +1 (319) 777-4665
+                  <a href="tel:+13197774664" className="text-primary-600 hover:text-primary-700 font-semibold">
+                    +1 (319) 777-4664
                   </a>
                 </p>
               </div>
