@@ -112,7 +112,7 @@ export default function Home() {
               href="/menu"
               className="inline-block bg-primary-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-primary-700 transition-colors"
             >
-              View Full Menu
+              View Full Menu for Catering
             </Link>
           </div>
         </div>
@@ -125,7 +125,7 @@ export default function Home() {
             Ready to Order?
           </h2>
           <p className="text-xl mb-6 text-primary-100">
-            Place your order online or give us a call
+            Give us a call
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             <Link
@@ -135,10 +135,10 @@ export default function Home() {
               Order Online
             </Link>
             <a
-              href="tel:+13197774665"
+              href="tel:+13197774664"
               className="bg-transparent border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-white hover:text-primary-600 transition-colors"
             >
-              📞 Call +1 (319) 777-4665
+              📞 Call +1 (319) 777-4664
             </a>
           </div>
         </div>
